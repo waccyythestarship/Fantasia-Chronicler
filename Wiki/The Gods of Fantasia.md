@@ -47,12 +47,12 @@ The first kingdoms were born around the latter half of the Twilight Era, such as
 ## First Era
 The first era began merely half a day after the death of Remos. It starts when the sun takes its first dawn in the lands. The death of the god of light and the prophecy of Nyktos strike fear amongst the populace; civilizations are in disarray, Eithar forms a militaristic Empire to defend itself from foreign entities, and the demigods live in fear.
 
-The death of Remos was followed by the death of Oohr, and it is shrouded in mystery, like how his tale has been to the gods. Only a few years after his death, the goddess of life perishes from an unknown cause; a giant tree they call the Great Divine Tree sprouted from where she was buried. Yearly, it produces a sap that can heal wounds and cure sickness. The demigods were left to their own devices.
+The death of Remos was followed by the death of Oohr, and it is shrouded in mystery, like how his tale has been to the gods. Only a few years after his death, the goddess of life perishes from an unknown cause; a giant tree they call the Great Eyrrneth Tree sprouted from where she was buried. Yearly, it produces a sap that can heal wounds and cure sickness. The demigods were left to their own devices.
 
 Aedrys left the Reman Kingdom and lived in solitude on a remote island. 
 \
 \
-Aneirin tried to rule after him, only for his people to revolt, wanting to remove the crown from the weaker demigod.
+Aneirin tried to rule after him, only for his people to revolt, wanting to remove the crown from the weaker demigod. Exiled from the lands, though the demigod was able to blend into society to observe the kingdom.
 \
 \
 Emrys, after thousands of years looking after the garden of Caendell, decided to leave and guide caen elven groups across the continent of Ettrion.
@@ -70,8 +70,9 @@ Heddwyn led a clan of true-blooded Nordics and sailed north, in hopes of searchi
 Iris continued to travel the rest of the unknown world, wanting to see what is beyond Aurora.
 \
 \
-Kassia looked after the Divine Tree and the rest of the garden when Emrys left Caendell.
+Kassia looked after the Eyrrneth Tree and the rest of the garden when Emrys left Caendell.
 ## Second Era
+
 
 ## Third Era
 
