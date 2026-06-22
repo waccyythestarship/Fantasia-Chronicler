@@ -21,7 +21,7 @@ image: nonchar_placeholder.png
 Date: 0, 1E
 Place: The Crown, Valadore
 way_of_light: [ Reman Kingdom, Elves of Caendell ]
-nightwraiths: [ Nightwraiths of the Abyss ]
+nightwraiths: [ Nightwraiths ]
 wol_leaders: [ Remos, Aedrys, Aneirin, Heddwyn ]
 nw_leaders: [ Nyktos ]
 ---

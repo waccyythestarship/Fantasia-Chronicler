@@ -78,4 +78,37 @@ Kassia looked after the Eyrrneth Tree and the rest of the garden when Emrys left
 
 ## Fourth Era
 
-# Religion
+# Pantheon
+
+## The Old Gods
+[[Nyktos]] – God of All-Evil and the Abyss
+\
+[[Nyrva]] – Goddess of Death and the Wayfarer of Souls
+\
+[[Nymareth]] - God of the Void and Vanity
+
+## The New Gods
+
+[[Remos]] – God of Light and Order
+\
+[[Ermira]] – Goddess of Life and Tranquility
+\
+[[Oohr]] – God of the Waters and the Unknown
+\
+[[Aedrys]] – Heir of Light and Strength
+\
+[[Aneirin]] – Deity of Honor and Wisdom
+\
+[[Emrys]] – Deity of Life and Guidance
+\
+[[Charia]] – Deity of Love and Companionship
+\
+[[Firlia]] – Deity of Compassion and Curiosity
+\
+[[Heddwyn]] – Deity of Peace and War
+\
+[[Iris]] – Deity of the Skies and Speed
+\
+[[Kassia]] – Deity of Beauty and Flora
+
+# Religion and Worship
